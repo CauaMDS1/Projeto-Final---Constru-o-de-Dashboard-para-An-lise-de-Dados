@@ -122,12 +122,6 @@ Quando o servidor iniciar, abra no navegador:
 http://127.0.0.1:8050
 ```
 
-Para parar o servidor, volte ao terminal e pressione:
-
-```text
-Ctrl+C
-```
-
 ### 4. Comandos uteis
 
 Preparar tudo do zero novamente:
